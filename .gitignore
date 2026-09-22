@@ -1,0 +1,11 @@
+# MSVC (cl.exe) build outputs
+*.exe
+*.obj
+*.ilk
+*.pdb
+
+# Program tarafından oluşturulan veri dosyası
+accounts.dat
+
+# VS Code editör ayarları / görevleri )
+.vscode/
